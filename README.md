@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -12,10 +11,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/maykbrito/devlinks/main/.github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -35,7 +30,3 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
