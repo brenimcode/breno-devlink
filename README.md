@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Breno DevLinks </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://brenimcode.github.io/Projeto-Rocketseat/)
+- [Acesse o projeto finalizado, online](https://brenimcode.github.io/breno-devlink/)
 
 ## :memo: Licença
 
